@@ -45,7 +45,7 @@ python src/LSB%20and%20DCT.py
 
 ## Example
 
-The `test_watermark` function in each script demonstrates how to use the watermarking techniques. It creates test images, embeds watermarks, and extracts them.
+
 
 ## License
 
